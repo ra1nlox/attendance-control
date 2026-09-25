@@ -1,0 +1,21 @@
+{
+  "name": "attendance",
+  "version": "1.0.0",
+  "description": "Extremely simple attendance server app",
+  "license": "GPL-3.0-only",
+  "author": "artemis",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "nodemon server.js"
+  },
+  "dependencies": {
+    "date-and-time": "^4.6.0",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "pino": "^10.3.1",
+    "pino-pretty": "^13.1.3"
+  }
+}
