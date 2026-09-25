@@ -12,7 +12,7 @@ This web application offers a solution to this problem.
 3. Have every student connect to it.
 4. Let the students know the machine's IP adress.
 5. Students enter the webpage, enter their own assigned code, and click submit.
-6. The monitor can use `curl localhost:3000/absences` to get list of absent people.
+6. The monitor can use `curl localhost:3000/get_absences` to get list of absent people.
 
 ## Note
 
