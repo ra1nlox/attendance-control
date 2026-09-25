@@ -9,7 +9,7 @@ const PORT = 80
 // server.set('view engine', 'html');
 
 const student_list = {
-  "asdasd": "Guțan Artiom"
+  
 }
 
 let present = []
